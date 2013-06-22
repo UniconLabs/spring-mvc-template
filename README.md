@@ -23,7 +23,7 @@ This app's config assumes that you have an Apero CAS server running somewhere.
 ### Adopt for your project development
 
 * Clone the repo, cd into the root of project and delete the git repository e.g. `rm -rf .git` (so that you could create your own)
-* Modify project name in `settings.gradle
+* Modify project name in `settings.gradle`
 * Modify group, description, version, etc. properties in the `build.gradle`. Also adjust the dependecies appropriate to your project
 * Change `contextName` in `etc/logback.xml` appropreate for your app
 * Change refernces to the config directory (currently `/etc/templateapp`) appropriate for your project. These references are in the following files: (`WEB-INF/spring/root-context.xml`)
