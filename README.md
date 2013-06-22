@@ -12,7 +12,7 @@ This is a basic Java web application template structure for easily bootstrapping
 
 ### Configuration
 
-This app's config assumes that you have an Apero CAS server running somewhere. 
+This app's config assumes that you have an Apereo CAS server running somewhere. 
 
 * Clone the repo, cd into the root of the project and copy files from `etc` directory (`cas.properties`, `logback.xml`) to `/etc/templateapp` directory
 
