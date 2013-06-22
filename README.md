@@ -26,7 +26,7 @@ This app's config assumes that you have an Apereo CAS server running somewhere.
 * Modify project name in `settings.gradle`
 * Modify group, description, version, etc. properties in the `build.gradle`. Also adjust the dependecies appropriate to your project
 * Change `contextName` in `etc/logback.xml` appropreate for your app
-* Change refernces to the config directory (currently `/etc/templateapp`) appropriate for your project. These references are in the following files: (`WEB-INF/spring/root-context.xml`, `src/main/resources/logback.xml`)
+* Change references to the config directory (currently `/etc/templateapp`) appropriate for your project. These references are in the following files: (`WEB-INF/spring/root-context.xml`, `src/main/resources/logback.xml`)
 * Change `context-component-scan base-package` as appropriate for your app in `WEB-INF/dispatcher-servlet.xml`
 * And of course change/add java packages, add classes and add/change views as appropreate for your app, etc.
 
