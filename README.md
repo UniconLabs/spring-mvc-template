@@ -4,11 +4,11 @@ spring-mvc-template
 This is a basic Java web application template structure for easily bootstrapping web development projects. This template uses the following foundational technologies:
 
 * `Gradle` for build system
-* Modedern `Spring MVC` framework with `@MVC` annotations
-* Moddern `JSTL` with `Apache Tiles` view templating framework
-* Modern `Spring Security` framework with basic `Apereo CAS` provider configured out of the box
+* `Spring MVC` framework with `@MVC` annotations
+* `JSTL` with `Apache Tiles` view templating framework
+* `Spring Security` framework with basic `Apereo CAS` provider configured out of the box
 * `Twitter Bootstrap` CSS framework
-* Modern `Logback` framework for logging
+* `Logback` framework for logging
 
 ### Configuration
 
